@@ -1,0 +1,590 @@
+BCSymbolMap Version: 2.0
+Apple clang version 13.1.6 (clang-1316.0.21.2)
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk
+iPhoneOS15.4.sdk
+/Users/eslam/Desktop/EslamProjects/Flutter/Quran/quran/output_frameworks/Release/iphoneos/Pods.build/Release-iphoneos/flutter_sound_core.build/DerivedSources/flutter_sound_core_vers.c
+/Users/eslam/Desktop/EslamProjects/Flutter/Quran/quran/.ios/Pods
+__GLOBAL__sub_I_Flauto.mm
+_OBJC_CLASSLIST_REFERENCES_$_
+_OBJC_SELECTOR_REFERENCES_
+__OBJC_METACLASS_RO_$_Flauto
+__OBJC_CLASS_RO_$_Flauto
+/Users/eslam/Desktop/EslamProjects/Flutter/Quran/quran/.ios/Pods/flutter_sound_core/ios/Classes/Flauto.mm
+_GLOBAL__sub_I_Flauto.mm
+flutter_sound_core/ios/Classes/Flauto.mm
+__cxx_global_var_init
+-[FlautoPlayer init:]
+-[FlautoPlayer getPlayerState]
+-[FlautoPlayer isDecoderSupported:]
+-[FlautoPlayer initializeFlautoPlayerFocus:category:mode:audioFlags:audioDevice:]
+-[FlautoPlayer releaseFlautoPlayer]
+-[FlautoPlayer setCategory:mode:options:]
+-[FlautoPlayer setActive:]
+-[FlautoPlayer stop]
+-[FlautoPlayer stopPlayer]
+-[FlautoPlayer startPlayerFromMicSampleRate:nbChannels:]
+-[FlautoPlayer getpath:]
+-[FlautoPlayer getUrl:]
+-[FlautoPlayer startPlayerCodec:fromURI:fromDataBuffer:channels:sampleRate:]
+___76-[FlautoPlayer startPlayerCodec:fromURI:fromDataBuffer:channels:sampleRate:]_block_invoke
+___copy_helper_block_ea8_32s
+___destroy_helper_block_ea8_32s
+-[FlautoPlayer play]
+-[FlautoPlayer needSomeFood:]
+___29-[FlautoPlayer needSomeFood:]_block_invoke
+-[FlautoPlayer updateProgress:]
+-[FlautoPlayer startTimer]
+___26-[FlautoPlayer startTimer]_block_invoke
+-[FlautoPlayer stopTimer]
+-[FlautoPlayer startPlayerFromTrack:canPause:canSkipForward:canSkipBackward:progress:duration:removeUIWhenStopped:defaultPauseResume:]
+-[FlautoPlayer pausePlayer]
+-[FlautoPlayer resumePlayer]
+-[FlautoPlayer setUIProgressBar:duration:]
+-[FlautoPlayer nowPlaying:canPause:canSkipForward:canSkipBackward:defaultPauseResume:progress:duration:]
+-[FlautoPlayer feed:]
+-[FlautoPlayer seekToPlayer:]
+-[FlautoPlayer setVolume:fadeDuration:]
+-[FlautoPlayer setSpeed:]
+-[FlautoPlayer getPosition]
+-[FlautoPlayer getDuration]
+-[FlautoPlayer getProgress]
+-[FlautoPlayer setSubscriptionDuration:]
+-[FlautoPlayer GetDirectoryOfType_FlutterSound:]
+-[FlautoPlayer audioPlayerDidFinishPlaying:successfully:]
+___57-[FlautoPlayer audioPlayerDidFinishPlaying:successfully:]_block_invoke
+-[FlautoPlayer getStatus]
+-[FlautoPlayer getPlayerStatus]
+-[FlautoPlayer logDebug:]
+-[FlautoPlayer .cxx_destruct]
+_OBJC_IVAR_$_FlautoPlayer.latentVolume
+_OBJC_IVAR_$_FlautoPlayer.latentSpeed
+_OBJC_IVAR_$_FlautoPlayer.latentSeek
+_OBJC_IVAR_$_FlautoPlayer.subscriptionDuration
+_OBJC_IVAR_$_FlautoPlayer.timer
+_OBJC_SELECTOR_REFERENCES_.2
+_OBJC_SELECTOR_REFERENCES_.4
+_OBJC_SELECTOR_REFERENCES_.6
+_OBJC_SELECTOR_REFERENCES_.8
+_OBJC_SELECTOR_REFERENCES_.14
+_OBJC_SELECTOR_REFERENCES_.16
+_OBJC_SELECTOR_REFERENCES_.22
+_OBJC_SELECTOR_REFERENCES_.24
+_OBJC_SELECTOR_REFERENCES_.28
+_OBJC_SELECTOR_REFERENCES_.30
+_OBJC_SELECTOR_REFERENCES_.36
+_OBJC_CLASSLIST_REFERENCES_$_.41
+_OBJC_SELECTOR_REFERENCES_.43
+_OBJC_SELECTOR_REFERENCES_.45
+_OBJC_SELECTOR_REFERENCES_.47
+_OBJC_SELECTOR_REFERENCES_.49
+_OBJC_SELECTOR_REFERENCES_.53
+_OBJC_CLASSLIST_REFERENCES_$_.54
+_OBJC_SELECTOR_REFERENCES_.56
+_OBJC_SELECTOR_REFERENCES_.60
+_OBJC_SELECTOR_REFERENCES_.62
+_OBJC_SELECTOR_REFERENCES_.64
+_OBJC_CLASSLIST_REFERENCES_$_.65
+_OBJC_SELECTOR_REFERENCES_.67
+_OBJC_SELECTOR_REFERENCES_.69
+_OBJC_CLASSLIST_REFERENCES_$_.72
+_OBJC_CLASSLIST_REFERENCES_$_.73
+_OBJC_SELECTOR_REFERENCES_.75
+_OBJC_SELECTOR_REFERENCES_.77
+_OBJC_SELECTOR_REFERENCES_.79
+_OBJC_SELECTOR_REFERENCES_.83
+_OBJC_SELECTOR_REFERENCES_.85
+_OBJC_CLASSLIST_REFERENCES_$_.86
+_OBJC_SELECTOR_REFERENCES_.88
+___block_descriptor_40_ea8_32s_e46_v32?0"NSData"8"NSURLResponse"16"NSError"24l
+_OBJC_SELECTOR_REFERENCES_.91
+_OBJC_CLASSLIST_REFERENCES_$_.92
+_OBJC_SELECTOR_REFERENCES_.94
+_OBJC_SELECTOR_REFERENCES_.96
+_OBJC_SELECTOR_REFERENCES_.98
+_OBJC_SELECTOR_REFERENCES_.102
+_OBJC_SELECTOR_REFERENCES_.104
+_OBJC_SELECTOR_REFERENCES_.106
+_OBJC_SELECTOR_REFERENCES_.108
+___block_descriptor_44_ea8_32s_e5_v8?0l
+_OBJC_SELECTOR_REFERENCES_.111
+_OBJC_SELECTOR_REFERENCES_.113
+_OBJC_CLASSLIST_REFERENCES_$_.116
+_OBJC_SELECTOR_REFERENCES_.118
+_OBJC_SELECTOR_REFERENCES_.120
+___block_descriptor_40_ea8_32s_e5_v8?0l
+_OBJC_SELECTOR_REFERENCES_.126
+_OBJC_SELECTOR_REFERENCES_.134
+_OBJC_SELECTOR_REFERENCES_.138
+_OBJC_SELECTOR_REFERENCES_.146
+_OBJC_SELECTOR_REFERENCES_.148
+_OBJC_SELECTOR_REFERENCES_.152
+_OBJC_CLASSLIST_REFERENCES_$_.165
+_OBJC_SELECTOR_REFERENCES_.167
+_OBJC_SELECTOR_REFERENCES_.175
+_OBJC_CLASSLIST_REFERENCES_$_.176
+_OBJC_SELECTOR_REFERENCES_.178
+_OBJC_SELECTOR_REFERENCES_.186
+_OBJC_SELECTOR_REFERENCES_.188
+_OBJC_SELECTOR_REFERENCES_.194
+_OBJC_SELECTOR_REFERENCES_.200
+_OBJC_SELECTOR_REFERENCES_.202
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_NSObject
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_NSObject
+__OBJC_$_PROP_LIST_NSObject
+__OBJC_$_PROTOCOL_METHOD_TYPES_NSObject
+__OBJC_PROTOCOL_$_NSObject
+__OBJC_LABEL_PROTOCOL_$_NSObject
+__OBJC_$_PROTOCOL_REFS_AVAudioPlayerDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_AVAudioPlayerDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_AVAudioPlayerDelegate
+__OBJC_PROTOCOL_$_AVAudioPlayerDelegate
+__OBJC_LABEL_PROTOCOL_$_AVAudioPlayerDelegate
+__OBJC_CLASS_PROTOCOLS_$_FlautoPlayer
+__OBJC_METACLASS_RO_$_FlautoPlayer
+__OBJC_$_INSTANCE_METHODS_FlautoPlayer
+__OBJC_$_INSTANCE_VARIABLES_FlautoPlayer
+__OBJC_$_PROP_LIST_FlautoPlayer
+__OBJC_CLASS_RO_$_FlautoPlayer
+/Users/eslam/Desktop/EslamProjects/Flutter/Quran/quran/.ios/Pods/flutter_sound_core/ios/Classes/FlautoPlayer.mm
+flutter_sound_core/ios/Classes/FlautoPlayer.mm
+__57-[FlautoPlayer audioPlayerDidFinishPlaying:successfully:]_block_invoke
+dispatch_get_main_queue
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/usr/include/dispatch/queue.h
+__26-[FlautoPlayer startTimer]_block_invoke
+__29-[FlautoPlayer needSomeFood:]_block_invoke
+__destroy_helper_block_ea8_32s
+__copy_helper_block_ea8_32s
+__76-[FlautoPlayer startPlayerCodec:fromURI:fromDataBuffer:channels:sampleRate:]_block_invoke
+-[AudioPlayerFlauto getAudioPlayer]
+-[AudioPlayerFlauto setAudioPlayer:]
+-[AudioPlayerFlauto init:]
+-[AudioPlayerFlauto startPlayerFromBuffer:]
+-[AudioPlayerFlauto startPlayerFromURL:codec:channels:sampleRate:]
+-[AudioPlayerFlauto getDuration]
+-[AudioPlayerFlauto getPosition]
+-[AudioPlayerFlauto stop]
+-[AudioPlayerFlauto play]
+-[AudioPlayerFlauto resume]
+-[AudioPlayerFlauto pause]
+-[AudioPlayerFlauto setVolume:fadeDuration:]
+-[AudioPlayerFlauto setSpeed:]
+-[AudioPlayerFlauto seek:]
+-[AudioPlayerFlauto getStatus]
+-[AudioPlayerFlauto feed:]
+-[AudioPlayerFlauto .cxx_destruct]
+-[AudioEngine init:]
+-[AudioEngine startPlayerFromBuffer:]
+-[AudioEngine startPlayerFromURL:codec:channels:sampleRate:]
+-[AudioEngine getDuration]
+-[AudioEngine getPosition]
+-[AudioEngine stop]
+-[AudioEngine play]
+-[AudioEngine resume]
+-[AudioEngine pause]
+-[AudioEngine seek:]
+-[AudioEngine getStatus]
+-[AudioEngine feed:]
+___20-[AudioEngine feed:]_block_invoke
+___20-[AudioEngine feed:]_block_invoke.145
+___20-[AudioEngine feed:]_block_invoke_2
+-[AudioEngine setVolume:fadeDuration:]
+-[AudioEngine setSpeed:]
+-[AudioEngine .cxx_destruct]
+-[AudioEngineFromMic init:]
+-[AudioEngineFromMic startPlayerFromBuffer:]
+-[AudioEngineFromMic getDuration]
+-[AudioEngineFromMic getPosition]
+-[AudioEngineFromMic startPlayerFromURL:codec:channels:sampleRate:]
+-[AudioEngineFromMic stop]
+-[AudioEngineFromMic play]
+-[AudioEngineFromMic resume]
+-[AudioEngineFromMic pause]
+-[AudioEngineFromMic seek:]
+-[AudioEngineFromMic getStatus]
+-[AudioEngineFromMic setVolume:fadeDuration:]
+-[AudioEngineFromMic setSpeed:]
+-[AudioEngineFromMic feed:]
+-[AudioEngineFromMic .cxx_destruct]
+___20-[AudioEngine feed:]_block_invoke_2.cold.1
+_OBJC_CLASSLIST_REFERENCES_$_.1
+_OBJC_SELECTOR_REFERENCES_.3
+_OBJC_SELECTOR_REFERENCES_.5
+_OBJC_SELECTOR_REFERENCES_.7
+_OBJC_SELECTOR_REFERENCES_.9
+_OBJC_SELECTOR_REFERENCES_.11
+_OBJC_SELECTOR_REFERENCES_.13
+_OBJC_SELECTOR_REFERENCES_.15
+_OBJC_SELECTOR_REFERENCES_.17
+_OBJC_SELECTOR_REFERENCES_.19
+_OBJC_SELECTOR_REFERENCES_.21
+_OBJC_SELECTOR_REFERENCES_.23
+_OBJC_SELECTOR_REFERENCES_.25
+_OBJC_SELECTOR_REFERENCES_.27
+_OBJC_SELECTOR_REFERENCES_.29
+_OBJC_SELECTOR_REFERENCES_.31
+_OBJC_SELECTOR_REFERENCES_.33
+__OBJC_$_PROTOCOL_REFS_FlautoPlayerEngineInterface
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_FlautoPlayerEngineInterface
+__OBJC_$_PROTOCOL_METHOD_TYPES_FlautoPlayerEngineInterface
+__OBJC_PROTOCOL_$_FlautoPlayerEngineInterface
+__OBJC_LABEL_PROTOCOL_$_FlautoPlayerEngineInterface
+__OBJC_CLASS_PROTOCOLS_$_AudioPlayerFlauto
+__OBJC_METACLASS_RO_$_AudioPlayerFlauto
+__OBJC_$_INSTANCE_METHODS_AudioPlayerFlauto
+_OBJC_IVAR_$_AudioPlayerFlauto.flautoPlayer
+_OBJC_IVAR_$_AudioPlayerFlauto.player
+__OBJC_$_INSTANCE_VARIABLES_AudioPlayerFlauto
+__OBJC_$_PROP_LIST_AudioPlayerFlauto
+__OBJC_CLASS_RO_$_AudioPlayerFlauto
+_OBJC_CLASSLIST_REFERENCES_$_.103
+_OBJC_SELECTOR_REFERENCES_.105
+_OBJC_SELECTOR_REFERENCES_.107
+_OBJC_CLASSLIST_REFERENCES_$_.108
+_OBJC_SELECTOR_REFERENCES_.110
+_OBJC_SELECTOR_REFERENCES_.112
+_OBJC_SELECTOR_REFERENCES_.114
+_OBJC_SELECTOR_REFERENCES_.116
+_OBJC_CLASSLIST_REFERENCES_$_.119
+_OBJC_SELECTOR_REFERENCES_.121
+__ZL5ready
+_OBJC_SELECTOR_REFERENCES_.124
+_OBJC_CLASSLIST_REFERENCES_$_.127
+_OBJC_SELECTOR_REFERENCES_.129
+_OBJC_CLASSLIST_REFERENCES_$_.130
+_OBJC_SELECTOR_REFERENCES_.132
+_OBJC_SELECTOR_REFERENCES_.136
+__ZZ20-[AudioEngine feed:]E7hasData
+___block_descriptor_40_ea8_32s_e27_"AVAudioBuffer"20?0I8^q12l
+_OBJC_CLASSLIST_REFERENCES_$_.140
+_OBJC_SELECTOR_REFERENCES_.142
+_OBJC_SELECTOR_REFERENCES_.144
+_OBJC_SELECTOR_REFERENCES_.149
+__OBJC_CLASS_PROTOCOLS_$_AudioEngine
+__OBJC_METACLASS_RO_$_AudioEngine
+__OBJC_$_INSTANCE_METHODS_AudioEngine
+_OBJC_IVAR_$_AudioEngine.flutterSoundPlayer
+_OBJC_IVAR_$_AudioEngine.engine
+_OBJC_IVAR_$_AudioEngine.playerNode
+_OBJC_IVAR_$_AudioEngine.playerFormat
+_OBJC_IVAR_$_AudioEngine.outputFormat
+_OBJC_IVAR_$_AudioEngine.outputNode
+_OBJC_IVAR_$_AudioEngine.mStartPauseTime
+_OBJC_IVAR_$_AudioEngine.systemTime
+_OBJC_IVAR_$_AudioEngine.mPauseTime
+_OBJC_IVAR_$_AudioEngine.waitingBlock
+_OBJC_IVAR_$_AudioEngine.m_sampleRate
+_OBJC_IVAR_$_AudioEngine.m_numChannels
+__OBJC_$_INSTANCE_VARIABLES_AudioEngine
+__OBJC_$_PROP_LIST_AudioEngine
+__OBJC_CLASS_RO_$_AudioEngine
+_OBJC_SELECTOR_REFERENCES_.177
+__OBJC_CLASS_PROTOCOLS_$_AudioEngineFromMic
+__OBJC_METACLASS_RO_$_AudioEngineFromMic
+__OBJC_$_INSTANCE_METHODS_AudioEngineFromMic
+_OBJC_IVAR_$_AudioEngineFromMic.flutterSoundPlayer
+_OBJC_IVAR_$_AudioEngineFromMic.engine
+_OBJC_IVAR_$_AudioEngineFromMic.playerNode
+_OBJC_IVAR_$_AudioEngineFromMic.playerFormat
+_OBJC_IVAR_$_AudioEngineFromMic.outputFormat
+_OBJC_IVAR_$_AudioEngineFromMic.outputNode
+_OBJC_IVAR_$_AudioEngineFromMic.mStartPauseTime
+_OBJC_IVAR_$_AudioEngineFromMic.systemTime
+_OBJC_IVAR_$_AudioEngineFromMic.mPauseTime
+_OBJC_IVAR_$_AudioEngineFromMic.waitingBlock
+_OBJC_IVAR_$_AudioEngineFromMic.m_sampleRate
+_OBJC_IVAR_$_AudioEngineFromMic.m_numChannels
+__OBJC_$_INSTANCE_VARIABLES_AudioEngineFromMic
+__OBJC_$_PROP_LIST_AudioEngineFromMic
+__OBJC_CLASS_RO_$_AudioEngineFromMic
+/Users/eslam/Desktop/EslamProjects/Flutter/Quran/quran/.ios/Pods/flutter_sound_core/ios/Classes/FlautoPlayerEngine.mm
+__20-[AudioEngine feed:]_block_invoke_2.cold.1
+flutter_sound_core/ios/Classes/FlautoPlayerEngine.mm
+__20-[AudioEngine feed:]_block_invoke_2
+__20-[AudioEngine feed:]_block_invoke.145
+__20-[AudioEngine feed:]_block_invoke
+-[FlautoRecorder recordingData:]
+-[FlautoRecorder init:]
+-[FlautoRecorder initializeFlautoRecorder:category:mode:audioFlags:audioDevice:]
+-[FlautoRecorder isEncoderSupported:]
+-[FlautoRecorder releaseFlautoRecorder]
+-[FlautoRecorder getpath:]
+-[FlautoRecorder getUrl:]
+-[FlautoRecorder startRecorderCodec:toPath:channels:sampleRate:bitRate:audioSource:]
+-[FlautoRecorder stop]
+-[FlautoRecorder stopRecorder]
+-[FlautoRecorder logDebug:]
+-[FlautoRecorder deleteRecord:]
+-[FlautoRecorder getRecordURL:]
+-[FlautoRecorder startRecorderTimer]
+-[FlautoRecorder GetDirectoryOfType_FlutterSound:]
+-[FlautoRecorder stopRecorderTimer]
+-[FlautoRecorder setSubscriptionDuration:]
+-[FlautoRecorder pauseRecorder]
+-[FlautoRecorder resumeRecorder]
+-[FlautoRecorder updateRecorderProgress:]
+-[FlautoRecorder getStatus]
+-[FlautoRecorder .cxx_destruct]
+__GLOBAL__sub_I_FlautoRecorder.mm
+_OBJC_SELECTOR_REFERENCES_.38
+_OBJC_SELECTOR_REFERENCES_.40
+_OBJC_SELECTOR_REFERENCES_.44
+_OBJC_SELECTOR_REFERENCES_.46
+_OBJC_SELECTOR_REFERENCES_.48
+_OBJC_SELECTOR_REFERENCES_.52
+_OBJC_SELECTOR_REFERENCES_.54
+_OBJC_SELECTOR_REFERENCES_.58
+_OBJC_CLASSLIST_REFERENCES_$_.63
+_OBJC_SELECTOR_REFERENCES_.65
+_OBJC_CLASSLIST_REFERENCES_$_.68
+_OBJC_SELECTOR_REFERENCES_.70
+_OBJC_SELECTOR_REFERENCES_.72
+_OBJC_SELECTOR_REFERENCES_.74
+_OBJC_SELECTOR_REFERENCES_.76
+_OBJC_SELECTOR_REFERENCES_.78
+_OBJC_SELECTOR_REFERENCES_.80
+_OBJC_CLASSLIST_REFERENCES_$_.81
+_OBJC_CLASSLIST_REFERENCES_$_.82
+_OBJC_SELECTOR_REFERENCES_.84
+__ZL7formats
+_OBJC_SELECTOR_REFERENCES_.86
+_OBJC_SELECTOR_REFERENCES_.90
+_OBJC_IVAR_$_FlautoRecorder.m_path
+_OBJC_SELECTOR_REFERENCES_.92
+_OBJC_CLASSLIST_REFERENCES_$_.111
+_OBJC_SELECTOR_REFERENCES_.115
+_OBJC_IVAR_$_FlautoRecorder.subscriptionDuration
+_OBJC_IVAR_$_FlautoRecorder.recorderTimer
+_OBJC_SELECTOR_REFERENCES_.122
+_OBJC_SELECTOR_REFERENCES_.128
+_OBJC_SELECTOR_REFERENCES_.130
+_OBJC_IVAR_$_FlautoRecorder.dbPeakTimer
+__OBJC_$_PROTOCOL_REFS_AVAudioRecorderDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_AVAudioRecorderDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_AVAudioRecorderDelegate
+__OBJC_PROTOCOL_$_AVAudioRecorderDelegate
+__OBJC_LABEL_PROTOCOL_$_AVAudioRecorderDelegate
+__OBJC_CLASS_PROTOCOLS_$_FlautoRecorder
+__OBJC_METACLASS_RO_$_FlautoRecorder
+__OBJC_$_INSTANCE_METHODS_FlautoRecorder
+__OBJC_$_INSTANCE_VARIABLES_FlautoRecorder
+__OBJC_$_PROP_LIST_FlautoRecorder
+__OBJC_CLASS_RO_$_FlautoRecorder
+/Users/eslam/Desktop/EslamProjects/Flutter/Quran/quran/.ios/Pods/flutter_sound_core/ios/Classes/FlautoRecorder.mm
+_GLOBAL__sub_I_FlautoRecorder.mm
+flutter_sound_core/ios/Classes/FlautoRecorder.mm
+____ZN19AudioRecorderEngineC2E7t_CODECP8NSStringP19NSMutableDictionaryP14FlautoRecorder_block_invoke
+____ZN19AudioRecorderEngineC2E7t_CODECP8NSStringP19NSMutableDictionaryP14FlautoRecorder_block_invoke_2
+___copy_helper_block_ea8_32s40s
+___destroy_helper_block_ea8_32s40s
+__ZN17AudioRecInterfaceD2Ev
+___clang_call_terminate
+__ZN19AudioRecorderEngineD1Ev
+__ZN19AudioRecorderEngineD0Ev
+_OBJC_CLASSLIST_REFERENCES_$_.7
+_OBJC_CLASSLIST_REFERENCES_$_.14
+_OBJC_CLASSLIST_REFERENCES_$_.17
+_OBJC_CLASSLIST_REFERENCES_$_.20
+_OBJC_SELECTOR_REFERENCES_.26
+_OBJC_CLASSLIST_REFERENCES_$_.27
+_OBJC_CLASSLIST_REFERENCES_$_.30
+_OBJC_SELECTOR_REFERENCES_.32
+_OBJC_CLASSLIST_REFERENCES_$_.33
+_OBJC_SELECTOR_REFERENCES_.35
+_OBJC_SELECTOR_REFERENCES_.37
+___block_descriptor_48_ea8_32s_e27_"AVAudioBuffer"20?0I8^q12l
+_OBJC_SELECTOR_REFERENCES_.39
+_OBJC_SELECTOR_REFERENCES_.41
+_OBJC_CLASSLIST_REFERENCES_$_.50
+___block_descriptor_56_ea8_32s40s_e42_v24?0"AVAudioPCMBuffer"8"AVAudioTime"16l
+_OBJC_SELECTOR_REFERENCES_.59
+_OBJC_SELECTOR_REFERENCES_.61
+_OBJC_SELECTOR_REFERENCES_.63
+_OBJC_CLASSLIST_REFERENCES_$_.75
+_OBJC_SELECTOR_REFERENCES_.81
+_OBJC_SELECTOR_REFERENCES_.87
+_OBJC_SELECTOR_REFERENCES_.89
+_OBJC_SELECTOR_REFERENCES_.93
+__ZTS17AudioRecInterface
+__ZTI17AudioRecInterface
+/Users/eslam/Desktop/EslamProjects/Flutter/Quran/quran/.ios/Pods/flutter_sound_core/ios/Classes/FlautoRecorderEngine.mm
+~AudioRecorderEngine
+flutter_sound_core/ios/Classes/FlautoRecorderEngine.h
+~AudioRecInterface
+getStatus
+flutter_sound_core/ios/Classes/FlautoRecorderEngine.mm
+dbPeakProgress
+recorderProgress
+pauseRecorder
+resumeRecorder
+stopRecorder
+startRecorder
+~avAudioRec
+avAudioRec
+AudioRecInterface
+AudioRecorderEngine
+__destroy_helper_block_ea8_32s40s
+__copy_helper_block_ea8_32s40s
+___ZN19AudioRecorderEngineC2E7t_CODECP8NSStringP19NSMutableDictionaryP14FlautoRecorder_block_invoke_2
+___ZN19AudioRecorderEngineC2E7t_CODECP8NSStringP19NSMutableDictionaryP14FlautoRecorder_block_invoke
+llvm.loop.mustprogress
+-[FlautoSession setAudioFocus:category:mode:audioFlags:audioDevice:]
+-[FlautoSession initializeFlautoPlayerFocus:category:mode:audioFlags:audioDevice:]
+-[FlautoSession releaseFlautoPlayer]
+__OBJC_METACLASS_RO_$_FlautoSession
+__OBJC_$_INSTANCE_METHODS_FlautoSession
+__OBJC_$_INSTANCE_VARIABLES_FlautoSession
+__OBJC_CLASS_RO_$_FlautoSession
+/Users/eslam/Desktop/EslamProjects/Flutter/Quran/quran/.ios/Pods/flutter_sound_core/ios/Classes/FlautoSession.mm
+flutter_sound_core/ios/Classes/FlautoSession.mm
+-[FlautoTrack isUsingPath]
+-[FlautoTrack initFromJson:]
+-[FlautoTrack initFromDictionary:]
+-[FlautoTrack path]
+-[FlautoTrack setPath:]
+-[FlautoTrack title]
+-[FlautoTrack setTitle:]
+-[FlautoTrack author]
+-[FlautoTrack setAuthor:]
+-[FlautoTrack albumArtUrl]
+-[FlautoTrack setAlbumArtUrl:]
+-[FlautoTrack albumArtAsset]
+-[FlautoTrack setAlbumArtAsset:]
+-[FlautoTrack albumArtFile]
+-[FlautoTrack setAlbumArtFile:]
+-[FlautoTrack dataBuffer]
+-[FlautoTrack setDataBuffer:]
+-[FlautoTrack .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.3
+__OBJC_METACLASS_RO_$_FlautoTrack
+__OBJC_$_INSTANCE_METHODS_FlautoTrack
+_OBJC_IVAR_$_FlautoTrack.albumArtFile
+__OBJC_$_INSTANCE_VARIABLES_FlautoTrack
+__OBJC_$_PROP_LIST_FlautoTrack
+__OBJC_CLASS_RO_$_FlautoTrack
+/Users/eslam/Desktop/EslamProjects/Flutter/Quran/quran/.ios/Pods/flutter_sound_core/ios/Classes/FlautoTrack.mm
+flutter_sound_core/ios/Classes/FlautoTrack.mm
+-[FlautoTrackPlayer init:]
+-[FlautoTrackPlayer releaseFlautoPlayer]
+-[FlautoTrackPlayer getPlayer]
+-[FlautoTrackPlayer setPlayer:]
+-[FlautoTrackPlayer getpath:]
+-[FlautoTrackPlayer getUrl:]
+-[FlautoTrackPlayer startPlayerFromTrack:canPause:canSkipForward:canSkipBackward:progress:duration:removeUIWhenStopped:defaultPauseResume:]
+___139-[FlautoTrackPlayer startPlayerFromTrack:canPause:canSkipForward:canSkipBackward:progress:duration:removeUIWhenStopped:defaultPauseResume:]_block_invoke
+___139-[FlautoTrackPlayer startPlayerFromTrack:canPause:canSkipForward:canSkipBackward:progress:duration:removeUIWhenStopped:defaultPauseResume:]_block_invoke_2
+___copy_helper_block_ea8_32s40s48s
+___destroy_helper_block_ea8_32s40s48s
+___139-[FlautoTrackPlayer startPlayerFromTrack:canPause:canSkipForward:canSkipBackward:progress:duration:removeUIWhenStopped:defaultPauseResume:]_block_invoke.98
+___139-[FlautoTrackPlayer startPlayerFromTrack:canPause:canSkipForward:canSkipBackward:progress:duration:removeUIWhenStopped:defaultPauseResume:]_block_invoke.109
+-[FlautoTrackPlayer setupNowPlaying:duration:]
+-[FlautoTrackPlayer cleanTarget]
+-[FlautoTrackPlayer stop]
+-[FlautoTrackPlayer stopPlayer]
+-[FlautoTrackPlayer setupRemoteCommandCenter:canSkipForward:canSkipBackward:]
+___77-[FlautoTrackPlayer setupRemoteCommandCenter:canSkipForward:canSkipBackward:]_block_invoke
+___77-[FlautoTrackPlayer setupRemoteCommandCenter:canSkipForward:canSkipBackward:]_block_invoke_2
+___77-[FlautoTrackPlayer setupRemoteCommandCenter:canSkipForward:canSkipBackward:]_block_invoke.190
+___77-[FlautoTrackPlayer setupRemoteCommandCenter:canSkipForward:canSkipBackward:]_block_invoke_2.193
+___77-[FlautoTrackPlayer setupRemoteCommandCenter:canSkipForward:canSkipBackward:]_block_invoke_3
+___77-[FlautoTrackPlayer setupRemoteCommandCenter:canSkipForward:canSkipBackward:]_block_invoke_4
+___77-[FlautoTrackPlayer setupRemoteCommandCenter:canSkipForward:canSkipBackward:]_block_invoke_5
+___77-[FlautoTrackPlayer setupRemoteCommandCenter:canSkipForward:canSkipBackward:]_block_invoke_6
+___77-[FlautoTrackPlayer setupRemoteCommandCenter:canSkipForward:canSkipBackward:]_block_invoke_7
+-[FlautoTrackPlayer setUIProgressBar:duration:]
+-[FlautoTrackPlayer updateLockScreenProgression]
+-[FlautoTrackPlayer cleanNowPlaying]
+-[FlautoTrackPlayer nowPlaying:canPause:canSkipForward:canSkipBackward:defaultPauseResume:progress:duration:]
+-[FlautoTrackPlayer seekToPlayer:]
+-[FlautoTrackPlayer audioPlayerDidFinishPlaying:successfully:]
+-[FlautoTrackPlayer .cxx_destruct]
+_OBJC_IVAR_$_FlautoTrackPlayer.m_removeUIWhenStopped
+_OBJC_SELECTOR_REFERENCES_.10
+_OBJC_SELECTOR_REFERENCES_.18
+_OBJC_SELECTOR_REFERENCES_.20
+_OBJC_CLASSLIST_REFERENCES_$_.29
+_OBJC_IVAR_$_FlautoTrackPlayer.m_track
+_OBJC_IVAR_$_FlautoTrackPlayer.m_defaultPauseResume
+_OBJC_CLASSLIST_REFERENCES_$_.38
+_OBJC_SELECTOR_REFERENCES_.42
+_OBJC_IVAR_$_FlautoTrackPlayer.audioFileURL
+_OBJC_CLASSLIST_REFERENCES_$_.47
+_OBJC_SELECTOR_REFERENCES_.51
+_OBJC_CLASSLIST_REFERENCES_$_.52
+_OBJC_CLASSLIST_REFERENCES_$_.55
+_OBJC_SELECTOR_REFERENCES_.57
+_OBJC_CLASSLIST_REFERENCES_$_.66
+_OBJC_SELECTOR_REFERENCES_.68
+___block_descriptor_43_ea8_32s_e5_v8?0l
+_OBJC_CLASSLIST_REFERENCES_$_.78
+_OBJC_SELECTOR_REFERENCES_.82
+___block_descriptor_59_ea8_32s40s48s_e46_v32?0"NSData"8"NSURLResponse"16"NSError"24l
+_OBJC_SELECTOR_REFERENCES_.95
+_OBJC_SELECTOR_REFERENCES_.97
+_OBJC_IVAR_$_FlautoTrackPlayer.albumArt
+_OBJC_CLASSLIST_REFERENCES_$_.114
+_OBJC_CLASSLIST_REFERENCES_$_.115
+_OBJC_SELECTOR_REFERENCES_.117
+_OBJC_SELECTOR_REFERENCES_.119
+_OBJC_CLASSLIST_REFERENCES_$_.120
+_OBJC_CLASSLIST_REFERENCES_$_.139
+_OBJC_SELECTOR_REFERENCES_.141
+_OBJC_IVAR_$_FlautoTrackPlayer.togglePlayPauseTarget
+_OBJC_SELECTOR_REFERENCES_.143
+_OBJC_SELECTOR_REFERENCES_.145
+_OBJC_IVAR_$_FlautoTrackPlayer.pauseTarget
+_OBJC_SELECTOR_REFERENCES_.147
+_OBJC_IVAR_$_FlautoTrackPlayer.playTarget
+_OBJC_IVAR_$_FlautoTrackPlayer.stopTarget
+_OBJC_SELECTOR_REFERENCES_.151
+_OBJC_IVAR_$_FlautoTrackPlayer.forwardTarget
+_OBJC_SELECTOR_REFERENCES_.153
+_OBJC_IVAR_$_FlautoTrackPlayer.backwardTarget
+_OBJC_SELECTOR_REFERENCES_.155
+_OBJC_SELECTOR_REFERENCES_.161
+_OBJC_CLASSLIST_REFERENCES_$_.164
+_OBJC_SELECTOR_REFERENCES_.166
+_OBJC_SELECTOR_REFERENCES_.168
+_OBJC_SELECTOR_REFERENCES_.174
+_OBJC_SELECTOR_REFERENCES_.182
+_OBJC_SELECTOR_REFERENCES_.184
+___block_descriptor_40_ea8_32s_e30_q16?0"MPRemoteCommandEvent"8l
+_OBJC_SELECTOR_REFERENCES_.189
+_OBJC_SELECTOR_REFERENCES_.199
+_OBJC_SELECTOR_REFERENCES_.201
+_OBJC_SELECTOR_REFERENCES_.203
+_OBJC_CLASSLIST_REFERENCES_$_.208
+_OBJC_SELECTOR_REFERENCES_.210
+_OBJC_CLASSLIST_REFERENCES_$_.211
+_OBJC_SELECTOR_REFERENCES_.215
+_OBJC_SELECTOR_REFERENCES_.217
+_OBJC_SELECTOR_REFERENCES_.219
+_OBJC_SELECTOR_REFERENCES_.221
+_OBJC_SELECTOR_REFERENCES_.227
+_OBJC_SELECTOR_REFERENCES_.233
+_OBJC_SELECTOR_REFERENCES_.239
+_OBJC_SELECTOR_REFERENCES_.241
+_OBJC_SELECTOR_REFERENCES_.247
+__OBJC_METACLASS_RO_$_FlautoTrackPlayer
+__OBJC_$_INSTANCE_METHODS_FlautoTrackPlayer
+__OBJC_$_INSTANCE_VARIABLES_FlautoTrackPlayer
+__OBJC_CLASS_RO_$_FlautoTrackPlayer
+/Users/eslam/Desktop/EslamProjects/Flutter/Quran/quran/.ios/Pods/flutter_sound_core/ios/Classes/FlautoTrackPlayer.mm
+flutter_sound_core/ios/Classes/FlautoTrackPlayer.mm
+__77-[FlautoTrackPlayer setupRemoteCommandCenter:canSkipForward:canSkipBackward:]_block_invoke_7
+__77-[FlautoTrackPlayer setupRemoteCommandCenter:canSkipForward:canSkipBackward:]_block_invoke_6
+__77-[FlautoTrackPlayer setupRemoteCommandCenter:canSkipForward:canSkipBackward:]_block_invoke_5
+__77-[FlautoTrackPlayer setupRemoteCommandCenter:canSkipForward:canSkipBackward:]_block_invoke_4
+__77-[FlautoTrackPlayer setupRemoteCommandCenter:canSkipForward:canSkipBackward:]_block_invoke_3
+__77-[FlautoTrackPlayer setupRemoteCommandCenter:canSkipForward:canSkipBackward:]_block_invoke_2.193
+__77-[FlautoTrackPlayer setupRemoteCommandCenter:canSkipForward:canSkipBackward:]_block_invoke.190
+__77-[FlautoTrackPlayer setupRemoteCommandCenter:canSkipForward:canSkipBackward:]_block_invoke_2
+__77-[FlautoTrackPlayer setupRemoteCommandCenter:canSkipForward:canSkipBackward:]_block_invoke
+__139-[FlautoTrackPlayer startPlayerFromTrack:canPause:canSkipForward:canSkipBackward:progress:duration:removeUIWhenStopped:defaultPauseResume:]_block_invoke.109
+__139-[FlautoTrackPlayer startPlayerFromTrack:canPause:canSkipForward:canSkipBackward:progress:duration:removeUIWhenStopped:defaultPauseResume:]_block_invoke.98
+__destroy_helper_block_ea8_32s40s48s
+__copy_helper_block_ea8_32s40s48s
+__139-[FlautoTrackPlayer startPlayerFromTrack:canPause:canSkipForward:canSkipBackward:progress:duration:removeUIWhenStopped:defaultPauseResume:]_block_invoke_2
+__139-[FlautoTrackPlayer startPlayerFromTrack:canPause:canSkipForward:canSkipBackward:progress:duration:removeUIWhenStopped:defaultPauseResume:]_block_invoke
+__OBJC_METACLASS_RO_$_PodsDummy_flutter_sound_core
+__OBJC_CLASS_RO_$_PodsDummy_flutter_sound_core
+/Users/eslam/Desktop/EslamProjects/Flutter/Quran/quran/.ios/Pods/Target Support Files/flutter_sound_core/flutter_sound_core-dummy.m
