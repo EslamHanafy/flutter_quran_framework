@@ -30,8 +30,8 @@ Pod::Spec.new do |spec|
   spec.social_media_url   = "https://twitter.com/ProgramerEslam"
 
   spec.platform     = :ios, "11.0"
-  spec.requires_arc = true
-  spec.swift_versions = ['4.2', '5', '5.1', '5.2']
+  # spec.requires_arc = true
+  # spec.swift_versions = ['4.2', '5', '5.1', '5.2']
 
 #  spec.source       = { :git => "https://github.com/EslamHanafy/ESCore.git", :tag => "#{spec.version}" }
   spec.source       = { :git => "https://github.com/EslamHanafy/flutter_quran_framework.git", :branch => "master" }
