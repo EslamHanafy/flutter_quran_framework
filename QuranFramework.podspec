@@ -23,7 +23,7 @@ Pod::Spec.new do |spec|
   #  Popular ones are 'MIT', 'BSD' and 'Apache License, Version 2.0'.
   #
 
-  spec.license      = { :type => "MIT", :file => "LICENSE" }
+  # spec.license      = { :type => "MIT", :file => "LICENSE" }
 
 
   spec.author             = { "EslamHanafy" => "eslamhanafy1998@gmail.com" }
@@ -39,7 +39,7 @@ Pod::Spec.new do |spec|
   # spec.dependency 'Flutter', :podspec => './Frameworks/Flutter.podspec'
   
   # spec.vendored_frameworks = 'Frameworks/App.xcframework', 'Frameworks/audioplayers.xcframework', 'Frameworks/flutter_local_notifications.xcframework', 'Frameworks/flutter_sound_core.xcframework', 'Frameworks/flutter_sound_lite.xcframework', 'Frameworks/FlutterPluginRegistrant.xcframework', 'Frameworks/fluttertoast.xcframework', 'Frameworks/FMDB.xcframework', 'Frameworks/path_provider_ios.xcframework', 'Frameworks/permission_handler.xcframework', 'Frameworks/share_extend.xcframework', 'Frameworks/shared_preferences_ios.xcframework', 'Frameworks/sqflite.xcframework', 'Frameworks/Toast.xcframework', 'Frameworks/wakelock.xcframework'
-  spec.vendored_frameworks = 'Frameworks/App.xcframework', 'Frameworks/audioplayers.xcframework', 'Frameworks/flutter_local_notifications.xcframework', 'Frameworks/flutter_sound_core.xcframework', 'Frameworks/flutter_sound_lite.xcframework', 'Frameworks/FlutterPluginRegistrant.xcframework', 'Frameworks/fluttertoast.xcframework', 'Frameworks/FMDB.xcframework', 'Frameworks/path_provider_ios.xcframework', 'Frameworks/permission_handler.xcframework', 'Frameworks/share_extend.xcframework', 'Frameworks/shared_preferences_ios.xcframework', 'Frameworks/sqflite.xcframework', 'Frameworks/Toast.xcframework', 'Frameworks/wakelock.xcframework'
+  spec.vendored_frameworks = 'Frameworks/App.xcframework', 'Frameworks/audioplayers.xcframework', 'Frameworks/flutter_local_notifications.xcframework', 'Frameworks/flutter_sound_core.xcframework', 'Frameworks/flutter_sound_lite.xcframework', 'Frameworks/fluttertoast.xcframework', 'Frameworks/FMDB.xcframework', 'Frameworks/path_provider_ios.xcframework', 'Frameworks/permission_handler.xcframework', 'Frameworks/share_extend.xcframework', 'Frameworks/shared_preferences_ios.xcframework', 'Frameworks/sqflite.xcframework', 'Frameworks/Toast.xcframework', 'Frameworks/wakelock.xcframework'
   spec.preserve_path = 'Frameworks/*'
 
   # spec.subspec 'Core' do |core|
